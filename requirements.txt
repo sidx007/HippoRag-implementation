@@ -1,0 +1,21 @@
+# HippoRAG and dependencies
+hipporag
+
+# PDF processing
+PyPDF2
+pdfplumber
+pypdf
+
+# Local LLM support
+vllm
+transformers
+torch
+
+# Additional utilities
+python-dotenv
+tqdm
+numpy
+pandas
+
+# Optional: For better embeddings
+sentence-transformers
